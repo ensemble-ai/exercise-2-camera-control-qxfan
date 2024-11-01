@@ -1,6 +1,5 @@
 class_name CameraControllerBase
 extends Camera3D
-# 
 
 @export var target:Vessel
 @export var dist_above_target:float = 10.0
